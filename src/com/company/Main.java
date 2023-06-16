@@ -96,7 +96,7 @@ import java.util.Scanner;
 class StringBuilderExample{
     public static void main(String[] args) {
         StringBuilder sb = new StringBuilder("Welcome");
-        sb.append("to");
+        sb.append(" to ");
         sb.append("Rangamati");
         System.out.println(sb);
 
